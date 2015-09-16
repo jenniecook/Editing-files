@@ -1,0 +1,9 @@
+.vc_checkbox-label{
+  display: inline-table;
+}
+.vc_checkbox-label input{
+  float: left;
+}
+.vc_checkbox-label .icon-admin{
+  margin: -3px 20px 5px 0px;
+}

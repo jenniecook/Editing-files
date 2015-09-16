@@ -1,0 +1,37 @@
+<wpml-config>
+    <custom-fields>
+        <custom-field action="ignore">musicflow-prefix-header-bg-image</custom-field>
+        <custom-field action="ignore">musicflow-prefix-header-bg-image</custom-field>
+        <custom-field action="ignore">musicflow-prefix-sidebar-type</custom-field>
+
+        <custom-field action="ignore">musicflow-prefix-event-top-image</custom-field>
+        <custom-field action="translate">musicflow-prefix-event-location</custom-field>
+        <custom-field action="translate">musicflow-prefix-event-venue</custom-field>
+    </custom-fields>
+    <custom-types>
+        <custom-type translate="1">musicflow-events</custom-type>
+        <custom-type translate="1">musicflow-galleries</custom-type>
+        <custom-type translate="1">musicflow-videos</custom-type>
+        <custom-type translate="1">musicflow-albums</custom-type>
+    </custom-types>
+    <taxonomies>
+        <taxonomy translate="1">musicflow-events-places</taxonomy>
+        <taxonomy translate="1">musicflow-events-tags</taxonomy>
+        <taxonomy translate="1">musicflow-galleries-category</taxonomy>
+        <taxonomy translate="1">musicflow-galleries-tags</taxonomy>
+        <taxonomy translate="1">musicflow-videos-category</taxonomy>
+        <taxonomy translate="1">musicflow-videos-tags</taxonomy>
+        <taxonomy translate="1">musicflow-albums-genres</taxonomy>
+        <taxonomy translate="1">musicflow-albums-tags</taxonomy>
+    </taxonomies>
+    <admin-texts>
+        <key name="musicflow_admin-general-settings-copyright" />
+        <key name="musicflow_admin-sidebar-settings-widget-text-title"/>
+        <key name="musicflow_admin-sidebar-settings-widget-text-title-bold"/>
+        <key name="musicflow_admin-sidebar-settings-widget-text-content"/>
+        <key name="musicflow_admin-footer-settings-widget-contact-us-text"/>
+        <key name="musicflow_admin-page-404-settings-header-text"/>
+    </admin-texts>
+</wpml-config>
+
+

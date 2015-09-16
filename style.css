@@ -1,0 +1,13 @@
+/*
+Theme Name: MUSICFLOW
+Theme URI: http://musicflow.gozawi.com/
+Description: MusicFlow theme.
+Author: paulrud, wtxinc
+Author URI: http://gozawi.com/
+Version: 1.1
+Tags: light, white, black, gray, left-sidebar, right-sidebar, translation-ready, microformats, rtl-language-support, fluid-layout, custom-background, custom-colors, custom-header, custom-menu, featured-image-header, full-width-template, post-formats, theme-options, translation-ready
+License: GNU General Public License version 3.0
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+*/
+
+.pagination li a, .pagination li span  { padding-top:7px; display:table; }

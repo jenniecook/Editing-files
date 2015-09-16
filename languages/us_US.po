@@ -1,0 +1,1597 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Musicflow\n"
+"POT-Creation-Date: 2015-08-27 17:39+0100\n"
+"PO-Revision-Date: 2015-08-27 17:39+0100\n"
+"Last-Translator: asdf <asdf>\n"
+"Language-Team: gozawi <wtxincusa@gmail.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;esc_html_e;esc_attr_e;_x;_n;"
+"esc_html__;esc_attr__;_x;_nx\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../musicflow/all-residents.php:34
+#: ../musicflow/archive-musicflow-albums.php:16
+#: ../musicflow/archive-musicflow-events.php:15
+#: ../musicflow/archive-musicflow-galleries.php:15
+#: ../musicflow/archive-musicflow-videos.php:15 ../musicflow/archive.php:15
+#: ../musicflow/category.php:15 ../musicflow/page-all-news.php:28
+#: ../musicflow/taxonomy-musicflow-events-places.php:18
+#: ../musicflow/taxonomy-musicflow-events-tags.php:18
+#: ../musicflow/taxonomy-musicflow-galleries-category.php:15
+#: ../musicflow/taxonomy-musicflow-galleries-tags.php:15
+#: ../musicflow/taxonomy-musicflow-videos-category.php:15
+#: ../musicflow/taxonomy-musicflow-videos-tags.php:15
+msgid "No found"
+msgstr ""
+
+#: ../musicflow/all-residents.php:35
+#: ../musicflow/extend/composer/shortcodes/vc-new-residents.php:30
+msgid "residents"
+msgstr ""
+
+#: ../musicflow/archive-musicflow-albums.php:17
+#: ../musicflow/archive-musicflow-albums.php:32
+#: ../musicflow/archive-musicflow-galleries.php:29
+msgid "photos"
+msgstr ""
+
+#: ../musicflow/archive-musicflow-albums.php:31
+#: ../musicflow/archive-musicflow-events.php:30
+#: ../musicflow/archive-musicflow-galleries.php:28
+#: ../musicflow/archive-musicflow-videos.php:28
+#: ../musicflow/page-all-news.php:43
+#: ../musicflow/extend/composer/shortcodes/vc-new-residents.php:30
+msgid "All"
+msgstr ""
+
+#: ../musicflow/archive-musicflow-events.php:16
+#: ../musicflow/archive-musicflow-events.php:31
+#: ../musicflow/taxonomy-musicflow-events-places.php:18
+#: ../musicflow/taxonomy-musicflow-events-tags.php:18
+#: ../musicflow/partials/footer/widgets.php:86
+#: ../musicflow/partials/home/upcoming-events.php:18
+msgid "events"
+msgstr ""
+
+#: ../musicflow/archive-musicflow-events.php:50
+#: ../musicflow/extend/composer/shortcodes/vc-upcoming-events.php:62
+#: ../musicflow/partials/home/upcoming-events.php:37
+#: ../musicflow/partials/taxonomy/event-content/version-one.php:17
+#: ../musicflow/partials/taxonomy/event-content/version-two.php:27
+msgid "j/n/Y"
+msgstr ""
+
+#: ../musicflow/archive-musicflow-events.php:61
+#: ../musicflow/extend/composer/shortcodes/vc-upcoming-events.php:73
+#: ../musicflow/partials/home/upcoming-events.php:48
+msgid "F j, Y"
+msgstr ""
+
+#: ../musicflow/archive-musicflow-galleries.php:15
+#: ../musicflow/partials/footer/widgets.php:89
+msgid "galleries"
+msgstr ""
+
+#: ../musicflow/archive-musicflow-videos.php:15
+#: ../musicflow/archive-musicflow-videos.php:29
+#: ../musicflow/taxonomy-musicflow-videos-category.php:15
+#: ../musicflow/taxonomy-musicflow-videos-tags.php:15
+#: ../musicflow/partials/footer/widgets.php:91
+#: ../musicflow/partials/home/new-videos.php:14
+msgid "videos"
+msgstr ""
+
+#: ../musicflow/archive.php:15
+msgid "archives"
+msgstr ""
+
+#: ../musicflow/archive.php:43
+msgid "F Y"
+msgstr ""
+
+#: ../musicflow/archive.php:55
+msgid "Y"
+msgstr ""
+
+#: ../musicflow/author.php:14
+msgid "No found data or are pending"
+msgstr ""
+
+#: ../musicflow/author.php:25
+msgid "All content by"
+msgstr ""
+
+#: ../musicflow/category.php:15 ../musicflow/page-all-news.php:29
+#: ../musicflow/page-all-news.php:44
+#: ../musicflow/partials/home/latest-news.php:30
+msgid "news"
+msgstr ""
+
+#: ../musicflow/category.php:28
+msgid "All news by"
+msgstr ""
+
+#: ../musicflow/comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../musicflow/comments.php:65 ../musicflow/comments.php:118
+msgid "Comments"
+msgstr ""
+
+#: ../musicflow/comments.php:65
+msgid "area"
+msgstr ""
+
+#: ../musicflow/comments.php:87
+msgid "No"
+msgstr ""
+
+#: ../musicflow/comments.php:87
+msgid "comments"
+msgstr ""
+
+#: ../musicflow/comments.php:91
+msgid "Current"
+msgstr ""
+
+#: ../musicflow/comments.php:91
+msgid "disqusion"
+msgstr ""
+
+#: ../musicflow/comments.php:118
+msgid "closed"
+msgstr ""
+
+#: ../musicflow/header-404.php:66
+msgid "404"
+msgstr ""
+
+#: ../musicflow/header-404.php:66
+msgid "sorry we are lost"
+msgstr ""
+
+#: ../musicflow/header-author.php:67 ../musicflow/header-author.php:84
+msgid "Author"
+msgstr ""
+
+#: ../musicflow/header-events-taxonomy.php:101
+#: ../musicflow/header-taxonomy.php:86 ../musicflow/sidebar-fifth.php:282
+#: ../musicflow/sidebar-fourth.php:282 ../musicflow/sidebar-second.php:282
+#: ../musicflow/sidebar-seventh.php:282 ../musicflow/sidebar-shop.php:284
+#: ../musicflow/sidebar-sixth.php:282 ../musicflow/sidebar-third.php:282
+#: ../musicflow/sidebar.php:282
+#: ../musicflow/includes/musicflow-helpers.php:466
+#: ../musicflow/includes/musicflow-widgets.php:462
+#, php-format
+msgid "%s event"
+msgstr ""
+
+#: ../musicflow/header-taxonomy.php:81
+msgid "Place"
+msgstr ""
+
+#: ../musicflow/index.php:23
+#: ../musicflow/extend/composer/shortcodes/vc-albums-search-form.php:16
+msgid "Search for music"
+msgstr ""
+
+#: ../musicflow/search-albums.php:15
+msgid "All search albums"
+msgstr ""
+
+#: ../musicflow/search-albums.php:21
+msgid "Nothing found Albums"
+msgstr ""
+
+#: ../musicflow/search.php:16
+msgid "All search by"
+msgstr ""
+
+#: ../musicflow/search.php:23
+msgid "Nothing found"
+msgstr ""
+
+#: ../musicflow/sidebar-fifth.php:16 ../musicflow/sidebar-fourth.php:16
+#: ../musicflow/sidebar-second.php:16 ../musicflow/sidebar-seventh.php:16
+#: ../musicflow/sidebar-shop.php:17 ../musicflow/sidebar-sixth.php:16
+#: ../musicflow/sidebar-third.php:16 ../musicflow/sidebar.php:16
+msgid "Media"
+msgstr ""
+
+#: ../musicflow/sidebar-fifth.php:16 ../musicflow/sidebar-fourth.php:16
+#: ../musicflow/sidebar-second.php:16 ../musicflow/sidebar-seventh.php:16
+#: ../musicflow/sidebar-shop.php:17 ../musicflow/sidebar-sixth.php:16
+#: ../musicflow/sidebar-third.php:16 ../musicflow/sidebar.php:16
+msgid "player"
+msgstr ""
+
+#: ../musicflow/sidebar-fifth.php:118 ../musicflow/sidebar-fourth.php:118
+#: ../musicflow/sidebar-second.php:118 ../musicflow/sidebar-seventh.php:118
+#: ../musicflow/sidebar-shop.php:120 ../musicflow/sidebar-sixth.php:118
+#: ../musicflow/sidebar-third.php:118 ../musicflow/sidebar.php:118
+msgid "Other"
+msgstr ""
+
+#: ../musicflow/sidebar-fifth.php:118 ../musicflow/sidebar-fourth.php:118
+#: ../musicflow/sidebar-second.php:118 ../musicflow/sidebar-seventh.php:118
+#: ../musicflow/sidebar-shop.php:120 ../musicflow/sidebar-sixth.php:118
+#: ../musicflow/sidebar-third.php:118 ../musicflow/sidebar.php:118
+#: ../musicflow/partials/footer/widgets.php:94
+msgid "albums"
+msgstr ""
+
+#: ../musicflow/sidebar-fifth.php:186 ../musicflow/sidebar-fourth.php:186
+#: ../musicflow/sidebar-second.php:186 ../musicflow/sidebar-seventh.php:186
+#: ../musicflow/sidebar-shop.php:188 ../musicflow/sidebar-sixth.php:186
+#: ../musicflow/sidebar-third.php:186 ../musicflow/sidebar.php:186
+msgid "Search"
+msgstr ""
+
+#: ../musicflow/sidebar-fifth.php:186 ../musicflow/sidebar-fourth.php:186
+#: ../musicflow/sidebar-second.php:186 ../musicflow/sidebar-seventh.php:186
+#: ../musicflow/sidebar-shop.php:188 ../musicflow/sidebar-sixth.php:186
+#: ../musicflow/sidebar-third.php:186 ../musicflow/sidebar.php:186
+msgid "content"
+msgstr ""
+
+#: ../musicflow/sidebar-fifth.php:189 ../musicflow/sidebar-fourth.php:189
+#: ../musicflow/sidebar-second.php:189 ../musicflow/sidebar-seventh.php:189
+#: ../musicflow/sidebar-shop.php:191 ../musicflow/sidebar-sixth.php:189
+#: ../musicflow/sidebar-third.php:189 ../musicflow/sidebar.php:189
+msgid "Search here"
+msgstr ""
+
+#: ../musicflow/sidebar-fifth.php:230 ../musicflow/sidebar-fourth.php:230
+#: ../musicflow/sidebar-second.php:230 ../musicflow/sidebar-seventh.php:230
+#: ../musicflow/sidebar-shop.php:232 ../musicflow/sidebar-sixth.php:230
+#: ../musicflow/sidebar-third.php:230 ../musicflow/sidebar.php:230
+msgid "Popular"
+msgstr ""
+
+#: ../musicflow/sidebar-fifth.php:230 ../musicflow/sidebar-fourth.php:230
+#: ../musicflow/sidebar-second.php:230 ../musicflow/sidebar-seventh.php:230
+#: ../musicflow/sidebar-shop.php:232 ../musicflow/sidebar-sixth.php:230
+#: ../musicflow/sidebar-third.php:230 ../musicflow/sidebar.php:230
+msgid "artists"
+msgstr ""
+
+#: ../musicflow/sidebar-fifth.php:285 ../musicflow/sidebar-fourth.php:285
+#: ../musicflow/sidebar-second.php:285 ../musicflow/sidebar-seventh.php:285
+#: ../musicflow/sidebar-shop.php:287 ../musicflow/sidebar-sixth.php:285
+#: ../musicflow/sidebar-third.php:285 ../musicflow/sidebar.php:285
+#: ../musicflow/includes/musicflow-helpers.php:472
+#: ../musicflow/includes/musicflow-widgets.php:465
+#, php-format
+msgid "%s album"
+msgstr ""
+
+#: ../musicflow/sidebar-fifth.php:305 ../musicflow/sidebar-fourth.php:305
+#: ../musicflow/sidebar-second.php:305 ../musicflow/sidebar-seventh.php:305
+#: ../musicflow/sidebar-shop.php:307 ../musicflow/sidebar-sixth.php:305
+#: ../musicflow/sidebar-third.php:305 ../musicflow/sidebar.php:304
+#: ../musicflow/includes/musicflow-widgets.php:485
+msgid "No found artists"
+msgstr ""
+
+#: ../musicflow/single-musicflow-albums.php:59
+msgid "Artist:"
+msgstr ""
+
+#: ../musicflow/single-musicflow-albums.php:88
+msgid "Relase date:"
+msgstr ""
+
+#: ../musicflow/single-musicflow-albums.php:95
+msgid "Catalog ID:"
+msgstr ""
+
+#: ../musicflow/single-musicflow-albums.php:102
+msgid "Songs:"
+msgstr ""
+
+#: ../musicflow/single-musicflow-events.php:16
+msgid "Events no found"
+msgstr ""
+
+#: ../musicflow/single-musicflow-events.php:39
+msgid "Start"
+msgstr ""
+
+#: ../musicflow/single-musicflow-events.php:47
+msgid "Location"
+msgstr ""
+
+#: ../musicflow/single-musicflow-events.php:57
+msgid "End"
+msgstr ""
+
+#: ../musicflow/single-musicflow-events.php:65
+msgid "Venue"
+msgstr ""
+
+#: ../musicflow/single-musicflow-events.php:71
+msgid "Price"
+msgstr ""
+
+#: ../musicflow/single-musicflow-events.php:91
+msgid "Google"
+msgstr ""
+
+#: ../musicflow/single-musicflow-events.php:91
+msgid "map"
+msgstr ""
+
+#: ../musicflow/single-musicflow-galleries.php:12
+msgid "Photo album"
+msgstr ""
+
+#: ../musicflow/single.php:15
+msgid "News no found"
+msgstr ""
+
+#: ../musicflow/taxonomy-musicflow-albums-genres.php:18
+#: ../musicflow/taxonomy-musicflow-albums-tags.php:16
+msgid "No found albums by"
+msgstr ""
+
+#: ../musicflow/taxonomy-musicflow-albums-genres.php:30
+#: ../musicflow/taxonomy-musicflow-albums-tags.php:29
+msgid "All albums by"
+msgstr ""
+
+#: ../musicflow/taxonomy-musicflow-events-places.php:31
+#: ../musicflow/taxonomy-musicflow-events-tags.php:31
+msgid "All events by"
+msgstr ""
+
+#: ../musicflow/taxonomy-musicflow-galleries-category.php:15
+#: ../musicflow/taxonomy-musicflow-galleries-tags.php:15
+msgid "Galleries"
+msgstr ""
+
+#: ../musicflow/taxonomy-musicflow-galleries-category.php:28
+#: ../musicflow/taxonomy-musicflow-galleries-tags.php:28
+msgid "All galleries by"
+msgstr ""
+
+#: ../musicflow/taxonomy-musicflow-videos-category.php:28
+#: ../musicflow/taxonomy-musicflow-videos-tags.php:28
+msgid "All videos by"
+msgstr ""
+
+#: ../musicflow/admin/redux-framework/core/panel.php:312 ../musicflow/admin -
+#: Kopia/redux-framework/core/panel.php:340
+msgid ""
+"<strong>Your panel has bundled outdated copies of Redux Framework template "
+"files</strong> &#8211; if you encounter functionality issues this could be "
+"the reason. Ensure you update or remove them."
+msgstr ""
+
+#: ../musicflow/admin/redux-framework/inc/extensions/customizer/inc/customizer_panel.php:89
+msgid "Press return or enter to open this panel"
+msgstr ""
+
+#: ../musicflow/admin/redux-framework/inc/extensions/customizer/inc/customizer_panel.php:138
+#: ../musicflow/admin/redux-framework/inc/extensions/customizer/inc/customizer_section.php:79
+msgid "Back"
+msgstr ""
+
+#: ../musicflow/admin/redux-framework/inc/extensions/customizer/inc/customizer_panel.php:146
+msgid "Help"
+msgstr ""
+
+#: ../musicflow/admin/redux-framework/inc/extensions/customizer/inc/customizer_section.php:72
+msgid "Press return or enter to open"
+msgstr ""
+
+#: ../musicflow/admin/redux-framework/inc/extensions/customizer/inc/customizer_section.php:122
+msgid "Press return or enter to expand"
+msgstr ""
+
+#: ../musicflow/admin/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:91
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:103
+msgid "Import Options"
+msgstr ""
+
+#: ../musicflow/admin/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:93
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:104
+msgid "Import from File"
+msgstr ""
+
+#: ../musicflow/admin/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:93
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:104
+msgid "Import from URL"
+msgstr ""
+
+#: ../musicflow/admin/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:107
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:116
+msgid "Import"
+msgstr ""
+
+#: ../musicflow/admin/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:111
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:119
+msgid "Export Options"
+msgstr ""
+
+#: ../musicflow/admin/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:121
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:126
+msgid "Copy Data"
+msgstr ""
+
+#: ../musicflow/admin/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:122
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:126
+msgid "Download Data File"
+msgstr ""
+
+#: ../musicflow/admin/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:123
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:126
+msgid "Copy Export URL"
+msgstr ""
+
+#: ../musicflow/admin/redux-framework/inc/extensions/options_object/options_object/field_options_object.php:104
+msgid "Options Object"
+msgstr ""
+
+#: ../musicflow/admin/redux-framework/inc/extensions/options_object/options_object/field_options_object.php:107
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: ../musicflow/admin/tgm/class-tgm-plugin-activation.php:524
+#: ../musicflow/admin - Kopia/tgm/class-tgm-plugin-activation.php:524
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: ../musicflow/admin/tgm/class-tgm-plugin-activation.php:525
+#: ../musicflow/admin - Kopia/tgm/class-tgm-plugin-activation.php:525
+msgid "Update Required"
+msgstr ""
+
+#: ../musicflow/admin/tgm/class-tgm-plugin-activation.php:639
+#: ../musicflow/admin - Kopia/tgm/class-tgm-plugin-activation.php:639
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: ../musicflow/admin/tgm/class-tgm-plugin-activation.php:833
+#: ../musicflow/admin/tgm/class-tgm-plugin-activation.php:3443
+#: ../musicflow/admin - Kopia/tgm/class-tgm-plugin-activation.php:833
+#: Kopia/tgm/class-tgm-plugin-activation.php:3443
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../musicflow/admin/tgm/class-tgm-plugin-activation.php:940
+#: ../musicflow/admin - Kopia/tgm/class-tgm-plugin-activation.php:940
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../musicflow/admin/tgm/class-tgm-plugin-activation.php:940
+#: ../musicflow/admin/tgm/class-tgm-plugin-activation.php:943
+#: ../musicflow/admin - Kopia/tgm/class-tgm-plugin-activation.php:940
+#: Kopia/tgm/class-tgm-plugin-activation.php:943
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../musicflow/admin/tgm/class-tgm-plugin-activation.php:943
+#: ../musicflow/admin - Kopia/tgm/class-tgm-plugin-activation.php:943
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../musicflow/admin/tgm/class-tgm-plugin-activation.php:1886
+#: ../musicflow/admin - Kopia/tgm/class-tgm-plugin-activation.php:1886
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../musicflow/admin/tgm/class-tgm-plugin-activation.php:2240
+#: ../musicflow/admin - Kopia/tgm/class-tgm-plugin-activation.php:2240
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../musicflow/admin/tgm/class-tgm-plugin-activation.php:2285
+#: ../musicflow/admin - Kopia/tgm/class-tgm-plugin-activation.php:2285
+#, php-format
+msgid "All <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../musicflow/admin/tgm/class-tgm-plugin-activation.php:2288
+#: ../musicflow/admin - Kopia/tgm/class-tgm-plugin-activation.php:2288
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../musicflow/admin/tgm/class-tgm-plugin-activation.php:2291
+#: ../musicflow/admin - Kopia/tgm/class-tgm-plugin-activation.php:2291
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../musicflow/admin/tgm/class-tgm-plugin-activation.php:2294
+#: ../musicflow/admin - Kopia/tgm/class-tgm-plugin-activation.php:2294
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../musicflow/admin/tgm/class-tgm-plugin-activation.php:2376
+#: ../musicflow/admin - Kopia/tgm/class-tgm-plugin-activation.php:2376
+msgid "unknown"
+msgstr ""
+
+#: ../musicflow/admin/tgm/class-tgm-plugin-activation.php:2496
+#: ../musicflow/admin - Kopia/tgm/class-tgm-plugin-activation.php:2496
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../musicflow/admin/tgm/class-tgm-plugin-activation.php:2500
+#: ../musicflow/admin - Kopia/tgm/class-tgm-plugin-activation.php:2500
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../musicflow/admin/tgm/class-tgm-plugin-activation.php:2505
+#: ../musicflow/admin - Kopia/tgm/class-tgm-plugin-activation.php:2505
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../musicflow/admin/tgm/class-tgm-plugin-activation.php:2575
+#: ../musicflow/admin - Kopia/tgm/class-tgm-plugin-activation.php:2575
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../musicflow/admin/tgm/class-tgm-plugin-activation.php:2793
+#: ../musicflow/admin - Kopia/tgm/class-tgm-plugin-activation.php:2793
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../musicflow/admin/tgm/class-tgm-plugin-activation.php:2819
+#: ../musicflow/admin - Kopia/tgm/class-tgm-plugin-activation.php:2819
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../musicflow/admin/tgm/class-tgm-plugin-activation.php:2837
+#: ../musicflow/admin - Kopia/tgm/class-tgm-plugin-activation.php:2837
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../musicflow/admin/tgm/class-tgm-plugin-activation.php:3375
+#: ../musicflow/admin/tgm/class-tgm-plugin-activation.php:3381
+#: ../musicflow/admin - Kopia/tgm/class-tgm-plugin-activation.php:3375
+#: Kopia/tgm/class-tgm-plugin-activation.php:3381
+msgid "Show Details"
+msgstr ""
+
+#: ../musicflow/admin/tgm/class-tgm-plugin-activation.php:3375
+#: ../musicflow/admin/tgm/class-tgm-plugin-activation.php:3381
+#: ../musicflow/admin - Kopia/tgm/class-tgm-plugin-activation.php:3375
+#: Kopia/tgm/class-tgm-plugin-activation.php:3381
+msgid "Hide Details"
+msgstr ""
+
+#: ../musicflow/admin/tgm/class-tgm-plugin-activation.php:3381
+#: ../musicflow/admin - Kopia/tgm/class-tgm-plugin-activation.php:3381
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/class.redux_themecheck.php:109
+msgid ""
+"The following directories & files are still located in your <strong>Redux</"
+"strong>  directory. They may cause errors in Theme-Check."
+msgstr ""
+
+#: ../musicflow/admin - Kopia/redux-framework/inc/welcome/welcome.php:340
+msgid "What's New"
+msgstr ""
+
+#: ../musicflow/admin - Kopia/redux-framework/inc/welcome/welcome.php:344
+msgid "Extensions"
+msgstr ""
+
+#: ../musicflow/admin - Kopia/redux-framework/inc/welcome/welcome.php:348
+msgid "Changelog"
+msgstr ""
+
+#: ../musicflow/admin - Kopia/redux-framework/inc/welcome/welcome.php:352
+msgid "Credits"
+msgstr ""
+
+#: ../musicflow/admin - Kopia/redux-framework/inc/welcome/welcome.php:356
+msgid "Support"
+msgstr ""
+
+#: ../musicflow/admin - Kopia/redux-framework/inc/welcome/welcome.php:360
+msgid "Status"
+msgstr ""
+
+#: ../musicflow/admin - Kopia/redux-framework/inc/welcome/views/about.php:15
+msgid "What is Redux Framework?"
+msgstr ""
+
+#: ../musicflow/admin - Kopia/redux-framework/inc/welcome/views/about.php:17
+msgid ""
+"Redux Framework is the core of many products on the web. It is an option "
+"framework which developers use to\n"
+"            enhance their products."
+msgstr ""
+
+#: ../musicflow/admin - Kopia/redux-framework/inc/welcome/views/about.php:22
+msgid "Learn More"
+msgstr ""
+
+#: ../musicflow/admin - Kopia/redux-framework/inc/welcome/views/about.php:28
+msgid "New in this Release"
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/changelog.php:2
+msgid "Redux Framework - Changelog"
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/changelog.php:5
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:28
+msgid ""
+"Our core mantra at Redux is backwards compatibility. With hundreds of "
+"thousands of instances worldwide, you can be assured that we will take care "
+"of you and your clients."
+msgstr ""
+
+#: ../musicflow/admin - Kopia/redux-framework/inc/welcome/views/credits.php:2
+msgid "Redux Framework - A Community Effort"
+msgstr ""
+
+#: ../musicflow/admin - Kopia/redux-framework/inc/welcome/views/credits.php:5
+msgid ""
+"We recognize we are nothing without our community. We would like to thank "
+"all of those who help Redux to be what it is. Thank you for your involvement."
+msgstr ""
+
+#: ../musicflow/admin - Kopia/redux-framework/inc/welcome/views/credits.php:14
+msgid ""
+"Redux is created by a community of developers world wide. Want to have your "
+"name listed too? <a href=\"https://github.com/reduxframework/redux-framework/"
+"blob/master/CONTRIBUTING.md\" target=\"_blank\">Contribute to Redux</a>."
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/extensions.php:76
+msgid "Redux Framework - Extensions"
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/extensions.php:88
+msgid ""
+"While some are built specificially for developers, extensions such as Custom "
+"Fonts are sure to make any user happy."
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:25
+msgid "Redux Framework - System Status"
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:38
+msgid ""
+"Please copy and paste this information in your ticket when contacting "
+"support:"
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:41
+msgid "Get System Report"
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:44
+msgid "Understanding the Status Report"
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:51
+msgid "Copied!"
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:51
+msgid "Copy for Support"
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:60
+msgid "WordPress Environment"
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:65
+msgid "Home URL"
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:66
+msgid "The URL of your site's homepage."
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:70
+msgid "Site URL"
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:71
+msgid "The root URL of your site."
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:75
+msgid "Redux Version"
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:76
+msgid "The version of Redux Framework installed on your site."
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:80
+msgid "Redux Data Directory Writable"
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:83
+msgid ""
+"Redux and its extensions write data to the <code>uploads</code> directory. "
+"This directory must be writable."
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:93
+msgid "WP Content URL"
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:96
+msgid "The location of Wordpress's content URL."
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:102
+msgid "WP Version"
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:103
+msgid "The version of WordPress installed on your site."
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:107
+msgid "WP Multisite"
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:108
+msgid "Whether or not you have WordPress Multisite enabled."
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:116
+msgid "Permalink Structure"
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:117
+msgid ""
+"The current permalink structure as defined in Wordpress Settings->Permalinks."
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:122
+msgid "Front Page Display"
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:123
+msgid "The current Reading mode of Wordpress."
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:131
+msgid "Front Page"
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:132
+msgid "The currently selected page which acts as the site's Front Page."
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:136
+msgid "Posts Page"
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:137
+msgid "The currently selected page in where blog posts are displayed."
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:144
+msgid "WP Memory Limit"
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:145
+msgid "The maximum amount of memory (RAM) that your site can use at one time."
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:157
+msgid "Database Table Prefix"
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:159
+msgid "The prefix structure of the current Wordpress database."
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:163
+msgid "WP Debug Mode"
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:164
+msgid "Displays whether or not WordPress is in Debug Mode."
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:172
+msgid "Language"
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:173
+msgid "The current language used by WordPress. Default = English"
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:181
+msgid "Browser"
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:186
+msgid "Browser Info"
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:187
+msgid "Information about web browser current in use."
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:202
+msgid "Server Environment"
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:207
+msgid "Server Info"
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:208
+msgid "Information about the web server that is currently hosting your site."
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:212
+msgid "Localhost Environment"
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:213
+msgid "Is the server running in a localhost environment."
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:223
+msgid "PHP Version"
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:224
+msgid "The version of PHP installed on your hosting server."
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:228
+msgid "ABSPATH"
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:229
+msgid "The ABSPATH variable on the server."
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:235
+msgid "PHP Memory Limit"
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:236
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:241
+msgid "The largest filesize that can be contained in one post."
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:240
+msgid "PHP Post Max Size"
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:245
+msgid "PHP Time Limit"
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:246
+msgid ""
+"The amount of time (in seconds) that your site will spend on a single "
+"operation before timing out (to avoid server lockups)"
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:250
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:251
+msgid ""
+"The maximum number of variables your server can use for a single function to "
+"avoid overloads."
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:255
+msgid "PHP Display Errors"
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:256
+msgid "Determines if PHP will display errors within the browser."
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:267
+msgid "SUHOSIN Installed"
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:268
+msgid ""
+"Suhosin is an advanced protection system for PHP installations. It was "
+"designed to protect your servers on the one hand against a number of well "
+"known problems in PHP applications and on the other hand against potential "
+"unknown vulnerabilities within these applications or the PHP core itself.  "
+"If enabled on your server, Suhosin may need to be configured to increase its "
+"data submission limits."
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:277
+msgid "MySQL Version"
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:278
+msgid "The version of MySQL installed on your hosting server."
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:282
+msgid "Max Upload Size"
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:283
+msgid ""
+"The largest filesize that can be uploaded to your WordPress installation."
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:287
+msgid "Default Timezone is UTC"
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:290
+msgid "The default timezone for your server."
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:304
+msgid "Used when communicating with remote services with PHP."
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:350
+msgid "Used to send data to remote servers."
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:366
+msgid "Used to grab information from remote servers for updates updates."
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:405
+msgid "Active Plugins"
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:427
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:445
+msgid "Redux Instance: "
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:452
+msgid "The opt_name argument for this instance of Redux."
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:460
+msgid "The global_variable argument for this instance of Redux."
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:468
+msgid "Indicates if developer mode is enabled for this instance of Redux."
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:473
+msgid "Indicates if ajax based saving is enabled for this instance of Redux."
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:478
+msgid ""
+"The page slug denotes the string used for the options panel page for this "
+"instance of Redux."
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:483
+msgid ""
+"The page permissions variable sets the permission level required to access "
+"the options panel for this instance of Redux."
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:488
+msgid ""
+"This variable set whether or not the menu is displayed as an admin menu item "
+"for this instance of Redux."
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:493
+msgid ""
+"The page parent variable sets where the options menu will be placed on the "
+"WordPress admin sidebar for this instance of Redux."
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:499
+msgid "Indicates if the compiler flag is enabled for this instance of Redux."
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:504
+msgid ""
+"Indicates if output flag for globally shutting off all CSS output is enabled "
+"for this instance of Redux."
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:509
+msgid ""
+"The output_tag variable sets whether or not dynamic CSS will be generated "
+"for the customizer and Google fonts for this instance of Redux."
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:518
+msgid ""
+"The specified template path containing custom template files for this "
+"instance of Redux."
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:523
+msgid "List of template files overriding the default Redux template files."
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:546
+msgid "Indicates the installed Redux extensions and their version numbers."
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:577
+msgid "Theme"
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:582
+msgid "Name"
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:583
+msgid "The name of the current active theme."
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:587
+msgid "Version"
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:588
+msgid "The installed version of the current active theme."
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:598
+msgid "Author URL"
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:599
+msgid "The theme developers URL."
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:603
+msgid "Child Theme"
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:604
+msgid "Displays whether or not the current theme is a child theme."
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:614
+msgid "Parent Theme Name"
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:616
+msgid "The name of the parent theme."
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:620
+msgid "Parent Theme Version"
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:623
+msgid "The installed version of the parent theme."
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:627
+msgid "Parent Theme Author URL"
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/inc/welcome/views/status_report.php:630
+msgid "The parent theme developers URL."
+msgstr ""
+
+#: ../musicflow/admin - Kopia/redux-framework/inc/welcome/views/support.php:2
+msgid "Redux Framework - Support"
+msgstr ""
+
+#: ../musicflow/admin - Kopia/redux-framework/inc/welcome/views/support.php:20
+msgid "Generate a Support URL"
+msgstr ""
+
+#: ../musicflow/admin - Kopia/redux-framework/inc/welcome/views/support.php:21
+msgid "Select Support Type"
+msgstr ""
+
+#: ../musicflow/admin - Kopia/redux-framework/inc/welcome/views/support.php:22
+#: Kopia/redux-framework/inc/welcome/views/support.php:65
+msgid "How to Get Support"
+msgstr ""
+
+#: ../musicflow/admin - Kopia/redux-framework/inc/welcome/views/support.php:27
+msgid "Submit a Support Request"
+msgstr ""
+
+#: ../musicflow/admin - Kopia/redux-framework/inc/welcome/views/support.php:30
+msgid "To get started, we will need to generate a support hash."
+msgstr ""
+
+#: ../musicflow/admin - Kopia/redux-framework/inc/welcome/views/support.php:37
+msgid ""
+"Generate\n"
+"                        a Support URL"
+msgstr ""
+
+#: ../musicflow/admin - Kopia/redux-framework/inc/welcome/views/support.php:44
+msgid "Select Your Support Type"
+msgstr ""
+
+#: ../musicflow/admin - Kopia/redux-framework/inc/welcome/views/support.php:47
+msgid "What type of user are you?"
+msgstr ""
+
+#: ../musicflow/admin - Kopia/redux-framework/inc/welcome/views/support.php:52
+msgid "User"
+msgstr ""
+
+#: ../musicflow/admin - Kopia/redux-framework/inc/welcome/views/support.php:53
+msgid "I am a user, using a pre-built product."
+msgstr ""
+
+#: ../musicflow/admin - Kopia/redux-framework/inc/welcome/views/support.php:56
+msgid "Developer"
+msgstr ""
+
+#: ../musicflow/admin - Kopia/redux-framework/inc/welcome/views/support.php:57
+msgid "I am a developer, building a product using Redux."
+msgstr ""
+
+#: ../musicflow/admin - Kopia/redux-framework/inc/welcome/views/support.php:68
+msgid ""
+"Please proceed to the Redux Framework issue tracker and supply us with your "
+"support URL below. Please also provide any information that will help us to "
+"reproduce your issue."
+msgstr ""
+
+#: ../musicflow/admin - Kopia/redux-framework/inc/welcome/views/support.php:74
+msgid ""
+"Listed below are the Wordpress plugins and/or theme installed on your site "
+"that utilize Redux Framework. We do not directly support products created "
+"with our framework.  It is the responsibility of the plugin or theme "
+"developer to support their work. You will need to contact the author(s) of "
+"the products listed below with your support questions."
+msgstr ""
+
+#: ../musicflow/admin - Kopia/redux-framework/inc/welcome/views/support.php:77
+msgid ""
+"Please be sure to include for your developer - via cut and paste - the "
+"Support URL in the box below."
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/templates/panel/footer.tpl.php:56
+#: Kopia/redux-framework/templates/panel/header_stickybar.tpl.php:26
+msgid "Working..."
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/templates/panel/header.tpl.php:47
+msgid "Developer Mode Enabled"
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/templates/panel/header_stickybar.tpl.php:16
+msgid "Expand"
+msgstr ""
+
+#: ../musicflow/admin -
+#: Kopia/redux-framework/templates/panel/menu_container.tpl.php:63
+msgid "System Info"
+msgstr ""
+
+#: ../musicflow/includes/musicflow-additions.php:148
+msgid "author"
+msgstr ""
+
+#: ../musicflow/includes/musicflow-additions.php:156
+msgid "edit"
+msgstr ""
+
+#: ../musicflow/includes/musicflow-custom-data.php:87
+#: ../musicflow/includes/musicflow-custom-data.php:241
+#: ../musicflow/includes/musicflow-custom-data.php:395
+msgid "Header Background Image"
+msgstr ""
+
+#: ../musicflow/includes/musicflow-custom-data.php:94
+#: ../musicflow/includes/musicflow-custom-data.php:235
+#: ../musicflow/includes/musicflow-custom-data.php:248
+#: ../musicflow/includes/musicflow-custom-data.php:389
+#: ../musicflow/includes/musicflow-custom-data.php:402
+msgid "Upload Image"
+msgstr ""
+
+#: ../musicflow/includes/musicflow-custom-data.php:95
+#: ../musicflow/includes/musicflow-custom-data.php:249
+msgid "Upload an additional header background image for archive page."
+msgstr ""
+
+#: ../musicflow/includes/musicflow-custom-data.php:99
+msgid "List item version"
+msgstr ""
+
+#: ../musicflow/includes/musicflow-custom-data.php:102
+msgid "Paragraph under image."
+msgstr ""
+
+#: ../musicflow/includes/musicflow-custom-data.php:105
+msgid "Paragraph on the right side or hide."
+msgstr ""
+
+#: ../musicflow/includes/musicflow-custom-data.php:108
+#: ../musicflow/includes/musicflow-custom-data.php:263
+msgid "Choose the list version layout to display."
+msgstr ""
+
+#: ../musicflow/includes/musicflow-custom-data.php:203
+msgid "Header version"
+msgstr ""
+
+#: ../musicflow/includes/musicflow-custom-data.php:206
+msgid "Big  (Visible name, description etc)."
+msgstr ""
+
+#: ../musicflow/includes/musicflow-custom-data.php:209
+msgid "Small  (Hide name, description, etc)."
+msgstr ""
+
+#: ../musicflow/includes/musicflow-custom-data.php:212
+msgid "Choose the header version layout to display."
+msgstr ""
+
+#: ../musicflow/includes/musicflow-custom-data.php:217
+msgid "Text header"
+msgstr ""
+
+#: ../musicflow/includes/musicflow-custom-data.php:223
+msgid "Text before category name."
+msgstr ""
+
+#: ../musicflow/includes/musicflow-custom-data.php:228
+msgid "Image"
+msgstr ""
+
+#: ../musicflow/includes/musicflow-custom-data.php:236
+msgid "Upload an additional image for place."
+msgstr ""
+
+#: ../musicflow/includes/musicflow-custom-data.php:254
+msgid "List version"
+msgstr ""
+
+#: ../musicflow/includes/musicflow-custom-data.php:257
+msgid "Content under image."
+msgstr ""
+
+#: ../musicflow/includes/musicflow-custom-data.php:260
+msgid "Paragraph on the right side."
+msgstr ""
+
+#: ../musicflow/includes/musicflow-custom-data.php:375
+msgid "User Profession"
+msgstr ""
+
+#: ../musicflow/includes/musicflow-custom-data.php:382
+msgid "User Avatar"
+msgstr ""
+
+#: ../musicflow/includes/musicflow-custom-data.php:390
+msgid "Upload an additional image for your user profile."
+msgstr ""
+
+#: ../musicflow/includes/musicflow-custom-data.php:403
+msgid ""
+"Upload an additional header background image for your user profile archive "
+"page."
+msgstr ""
+
+#: ../musicflow/includes/musicflow-helpers.php:463
+#, php-format
+msgid "%s post"
+msgstr ""
+
+#: ../musicflow/includes/musicflow-helpers.php:469
+#, php-format
+msgid "%s photo"
+msgstr ""
+
+#: ../musicflow/includes/musicflow-helpers.php:475
+#, php-format
+msgid "%s video"
+msgstr ""
+
+#: ../musicflow/includes/musicflow-widgets.php:156
+#: ../musicflow/includes/musicflow-widgets.php:353
+msgid "ID album"
+msgstr ""
+
+#: ../musicflow/includes/musicflow-widgets.php:159
+#: ../musicflow/includes/musicflow-widgets.php:356
+msgid "If empty, will show last album."
+msgstr ""
+
+#: ../musicflow/includes/musicflow-widgets.php:540
+msgid "Number of artists to show"
+msgstr ""
+
+#: ../musicflow/includes/musicflow-widgets.php:543
+msgid "Default show two artists."
+msgstr ""
+
+#: ../musicflow/includes/musicflow-widgets.php:637
+msgid "Content"
+msgstr ""
+
+#: ../musicflow/includes/musicflow-widgets.php:807
+msgid "Number of albums to show"
+msgstr ""
+
+#: ../musicflow/includes/musicflow-widgets.php:813
+msgid "Include"
+msgstr ""
+
+#: ../musicflow/includes/musicflow-widgets.php:815
+msgid ""
+"Albmus IDs, separated by commas. Only show this albums. If empty, show "
+"latest."
+msgstr ""
+
+#: ../musicflow/includes/musicflow-widgets.php:932
+msgid "Placeholder"
+msgstr ""
+
+#: ../musicflow/includes/musicflow-widgets.php:934
+msgid "Text to placeholder. If empty, default \"Seaarch here\"."
+msgstr ""
+
+#: ../musicflow/includes/meta/helpers/cmb_Meta_Box_types.php:250
+msgid "Add Row"
+msgstr ""
+
+#: ../musicflow/includes/meta/helpers/cmb_Meta_Box_types.php:306
+msgid "Remove"
+msgstr ""
+
+#: ../musicflow/partials/breadcrumb.php:3
+msgid "You are here"
+msgstr ""
+
+#: ../musicflow/partials/album/player.php:4
+msgid "Listen"
+msgstr ""
+
+#: ../musicflow/partials/album/player.php:4
+msgid "album"
+msgstr ""
+
+#: ../musicflow/partials/footer/widgets.php:47
+msgid "Contact"
+msgstr ""
+
+#: ../musicflow/partials/footer/widgets.php:47
+msgid "us"
+msgstr ""
+
+#: ../musicflow/partials/footer/widgets.php:79
+#: ../musicflow/partials/home/latest-news.php:30
+msgid "Latest"
+msgstr ""
+
+#: ../musicflow/partials/footer/widgets.php:83
+msgid "posts"
+msgstr ""
+
+#: ../musicflow/partials/footer/widgets.php:130
+msgid "Tag"
+msgstr ""
+
+#: ../musicflow/partials/footer/widgets.php:130
+msgid "cloud"
+msgstr ""
+
+#: ../musicflow/partials/footer/widgets.php:162
+msgid "Flickr"
+msgstr ""
+
+#: ../musicflow/partials/footer/widgets.php:162
+msgid "widget"
+msgstr ""
+
+#: ../musicflow/partials/home/latest-news.php:28
+msgid "view all news"
+msgstr ""
+
+#: ../musicflow/partials/home/new-videos.php:12
+msgid "view all videos"
+msgstr ""
+
+#: ../musicflow/partials/home/new-videos.php:13
+msgid "New"
+msgstr ""
+
+#: ../musicflow/partials/home/upcoming-events.php:16
+msgid "view all events"
+msgstr ""
+
+#: ../musicflow/partials/home/upcoming-events.php:17
+msgid "Upcoming"
+msgstr ""
+
+#: ../musicflow/partials/panel/main.php:6
+#: ../musicflow/partials/panel/mobile.php:4
+msgid "profile"
+msgstr ""
+
+#: ../musicflow/partials/panel/main.php:7
+#: ../musicflow/partials/panel/mobile.php:5
+msgid "logout"
+msgstr ""
+
+#: ../musicflow/partials/panel/main.php:13
+#: ../musicflow/partials/panel/mobile.php:9
+msgid "register"
+msgstr ""
+
+#: ../musicflow/partials/panel/main.php:15
+#: ../musicflow/partials/panel/main.php:17
+#: ../musicflow/partials/panel/mobile.php:11
+#: ../musicflow/partials/panel/mobile.php:13
+msgid "login"
+msgstr ""
+
+#: ../musicflow/partials/taxonomy/event-content/version-one.php:22
+#: ../musicflow/partials/taxonomy/event-content/version-one.php:26
+#: ../musicflow/partials/taxonomy/event-content/version-two.php:32
+#: ../musicflow/partials/taxonomy/event-content/version-two.php:36
+msgid "H:i A"
+msgstr ""
+
+#: ../musicflow/partials/taxonomy/event-content/version-one.php:34
+#: ../musicflow/partials/taxonomy/event-content/version-two.php:18
+msgid "F d, Y"
+msgstr ""
